@@ -1,1 +1,1 @@
-# This blog is created by using pyhton flask framework
+# This blog is created by using python flask framework
